@@ -11,9 +11,12 @@
 # menjalankan
 •cd Spam
 
-•python Spam.py
+•python spam.py
 
 # traktir Admin ngopi
 donasi dana:087858411238
 
 No wa:087858411238
+
+#Di uji pada:
+Termux
