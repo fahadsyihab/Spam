@@ -7,7 +7,7 @@
 
 •pkg install git
 
-
+•git clone https://github.com/fahadsyihab/Spam
 # menjalankan
 •cd Spam
 
