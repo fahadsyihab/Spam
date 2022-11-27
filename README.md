@@ -18,5 +18,6 @@ donasi dana:087858411238
 
 No wa:087858411238
 
-#Di uji pada:
-Termux
+# Di uji pada:
+•Termux
+
